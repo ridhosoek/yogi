@@ -1,0 +1,1067 @@
+.tampilan-bisnis .snack-medan-seller {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #000000;
+}
+.tampilan-bisnis .container-20 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  padding: 26px 22px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .pengiriman {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-1 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline {
+  margin: 8.2px 0 3px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-27 {
+  margin: 0 0.4px 38px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .pesanan-1 {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-2 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline-1 {
+  margin: 6.2px 0 5px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-12 {
+  margin: 0 0.4px 33px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .produk {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-3 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline-2 {
+  margin: 6.2px 0 5px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-19 {
+  margin: 0 0.4px 37px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .promosi-saya {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-4 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline-3 {
+  margin: 8.2px 0 3px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-28 {
+  margin: 0 0.4px 37px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .keuangan {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-5 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline-4 {
+  margin: 6.2px 0 5px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-13 {
+  margin: 0 0.4px 41px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .data {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-6 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline-5 {
+  margin: 6.2px 0 5px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container {
+  margin: 0 0.4px 34px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .pengembang-penjual {
+  margin-right: 9.5px;
+  width: 203.1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-7 {
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .riarrow-up-sline-6 {
+  margin: 4.2px 0 7px 0;
+  display: flex;
+  width: 12.7px;
+  height: 7.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-4 {
+  margin: 0 0.4px 41px 0.4px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .layanan-pembeli {
+  margin-right: 9.5px;
+  width: 203.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-8 {
+  margin: 8px 0 3.2px 0;
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .container-16 {
+  margin-bottom: 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.7px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .toko {
+  margin-right: 9.5px;
+  width: 203.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-9 {
+  margin: 9px 0 2.2px 0;
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .container-7 {
+  margin-bottom: 34px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.7px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .pengaturan {
+  margin-right: 9.5px;
+  width: 203.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector-10 {
+  margin: 7px 0 4.2px 0;
+  width: 12.7px;
+  height: 7.8px;
+}
+.tampilan-bisnis .container-24 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 225.7px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-37 {
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  padding: 12px 21.3px 100px 0;
+  width: 299px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .yang-perlu-dilakukan {
+  margin-bottom: 33px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .container {
+  margin: 4px 11px 0 0;
+  display: inline-block;
+  width: 135px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-3 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-4 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-6 {
+  margin-bottom: 4px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-33 {
+  margin: 0 45.7px 1px 36px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 476.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .belum-bayar {
+  margin: 0 6px 12px 0;
+  display: inline-block;
+  width: 107px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .pengiriman-perlu-diproses {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .pengiriman-telah-diproses {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .menunggu-respon-pembatalan {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .container-36 {
+  margin: 0 0 25px 13px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 545.1px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-1 {
+  margin-right: 11px;
+  width: 135px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-2 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-5 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-7 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 18px;
+  color: #000000;
+}
+.tampilan-bisnis .container-35 {
+  margin: 0 44.7px 0 37px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 476.4px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .menunggu-respon-pengembalian {
+  margin-right: 12px;
+  width: 137px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .produk-diblokir {
+  margin: 1px 0 11px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .produk-habis {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .promo-akan-datang {
+  margin-bottom: 12px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .container-10 {
+  margin: 0 10.6px 0 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 545.6px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-15 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .hal-hal-yang-perlu-kamu-lakukan {
+  position: absolute;
+  left: 11px;
+  top: 22px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 10px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .container-23 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 13px;
+  display: flex;
+  padding: 4px 8.9px 45px 9px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .bisnis-saya {
+  margin: 0 1px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .pejualan {
+  margin: 13px 7.5px 0 0;
+  display: inline-block;
+  width: 333.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.tampilan-bisnis .total-pengunjung {
+  margin-bottom: 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .produk-dilihat {
+  margin-bottom: 13px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .container-5 {
+  margin: 0 6.1px 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 558.9px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .line-35 {
+  background: #000000;
+  transform: rotate(90.392deg);
+  margin: 0 3px 1.5px 3px;
+  align-self: flex-start;
+  width: 1px;
+  height: 3.5px;
+}
+.tampilan-bisnis .container-13 {
+  margin-right: 9.5px;
+  width: 135.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .container-14 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .container-6 {
+  margin: 0 43.7px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 155.3px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .line-38 {
+  background: #000000;
+  margin-bottom: 7px;
+  align-self: flex-start;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .vs-kemarin-000 {
+  margin: 1px 3.5px 0 0;
+  display: inline-block;
+  width: 144.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 6px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .vs-kemarin-0001 {
+  margin-bottom: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 6px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .container-2 {
+  margin: 0 18px 3px 18px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-end;
+  width: 205px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .line-39 {
+  background: #000000;
+  margin-bottom: 16px;
+  align-self: flex-start;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .line-48 {
+  background: #8E8D8D;
+  margin-bottom: 1.5px;
+  align-self: flex-end;
+  width: 223px;
+  height: 0.5px;
+}
+.tampilan-bisnis .line-40 {
+  background: #000000;
+  margin-bottom: 8px;
+  align-self: flex-start;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .line-41 {
+  background: #000000;
+  margin: 9px 0 3px 0;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .pesanan {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .tingkat-konversi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .container-3 {
+  margin: 0 5.2px 14px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 560.8px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .line-42 {
+  background: #000000;
+  margin-bottom: 7px;
+  align-self: flex-start;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .line-43 {
+  background: #000000;
+  margin: 13px 0 3px 0;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .container-15 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .container-16 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .container-32 {
+  margin: 0 43.7px 10px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 522.3px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-8 {
+  margin-right: 5px;
+  width: 334px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 8px;
+  color: #000000;
+}
+.tampilan-bisnis .vs-kemarin-0002 {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 6px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .vs-kemarin-0003 {
+  margin: 1px 0 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 6px;
+  color: #8E8D8D;
+}
+.tampilan-bisnis .container-29 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 545px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-9 {
+  position: absolute;
+  left: 63px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 8px;
+  color: #000000;
+}
+.tampilan-bisnis .container-10 {
+  position: absolute;
+  left: 134px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 8px;
+  color: #000000;
+}
+.tampilan-bisnis .container-11 {
+  position: absolute;
+  left: 214px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 8px;
+  color: #000000;
+}
+.tampilan-bisnis .container-12 {
+  position: absolute;
+  right: 238.8px;
+  bottom: 0px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 8px;
+  color: #000000;
+}
+.tampilan-bisnis .container-18 {
+  position: relative;
+  margin: 0 18px 0 3px;
+  display: flex;
+  width: 545px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-26 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .line-36 {
+  background: #000000;
+  position: absolute;
+  left: 16px;
+  bottom: 18.5px;
+  width: 283px;
+  height: 3.5px;
+}
+.tampilan-bisnis .line-37 {
+  background: #000000;
+  position: absolute;
+  left: 10px;
+  top: 61px;
+  width: 4px;
+  height: 3px;
+}
+.tampilan-bisnis .line-44 {
+  background: #000000;
+  position: absolute;
+  left: 229px;
+  bottom: 20px;
+  width: 2px;
+  height: 2px;
+}
+.tampilan-bisnis .line-46 {
+  background: #000000;
+  position: absolute;
+  left: 150px;
+  bottom: 20px;
+  width: 2px;
+  height: 2px;
+}
+.tampilan-bisnis .line-47 {
+  background: #000000;
+  position: absolute;
+  left: 79px;
+  bottom: 20px;
+  width: 2px;
+  height: 2px;
+}
+.tampilan-bisnis .line-45 {
+  background: #000000;
+  position: absolute;
+  right: 277px;
+  bottom: 20px;
+  width: 2px;
+  height: 2px;
+}
+.tampilan-bisnis .container-30 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border: 0.5px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 41px;
+  display: flex;
+  padding: 7px 0 10px 10px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .chat {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .container-17 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 16px 0.5px 16px 0;
+  width: 104px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-21 {
+  margin: 13px 0 70px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .berita {
+  margin-right: 9.5px;
+  width: 173.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .lainnya {
+  margin-right: 6.2px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .vector {
+  transform: rotate(90.065deg);
+  margin: 3px 0 0.2px 0;
+  width: 8.5px;
+  height: 15.8px;
+}
+.tampilan-bisnis .container-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-8 {
+  margin: 0 25.5px 10px 11px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 256.5px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .line-50 {
+  background: #000000;
+  margin-bottom: 130px;
+  width: 293px;
+  height: 1px;
+}
+.tampilan-bisnis .tidak-ada-data {
+  margin-right: 17.7px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 16px;
+  color: #AFAFAF;
+}
+.tampilan-bisnis .container-11 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 4px 0 40px 0;
+  width: 293px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .seller-mission {
+  margin: 0 13px 4px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .line-49 {
+  background: #000000;
+  margin-bottom: 7px;
+  width: 292px;
+  height: 1px;
+}
+.tampilan-bisnis .selesaikan-1-pesanan {
+  margin: 0 13px 44px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 13px;
+  color: #000000;
+}
+.tampilan-bisnis .dapatkan-2-slot-tambahan {
+  margin: 0 13px 29px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .mulai {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .container-1 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 10px;
+  display: flex;
+  align-self: flex-end;
+  padding: 6px 0.9px 5px 0;
+  width: 86px;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-25 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 13px;
+  display: flex;
+  flex-direction: column;
+  padding: 7px 0 12px 1px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .buat-promo-toko {
+  margin: 0 14px 8px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bisnis .line-51 {
+  background: #000000;
+  margin-bottom: 13px;
+  width: 292px;
+  height: 1px;
+}
+.tampilan-bisnis .dapatkan-iklan-saldo-dari-snack-medan-sebesar-rp-2000000 {
+  margin: 0 11px 64px 11px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .dapatkan {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.tampilan-bisnis .container-22 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 9px;
+  align-self: flex-end;
+  padding: 5px 20px 6px 20px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-31 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 1px 13px 0;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-34 {
+  margin: 13px 0 24px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.tampilan-bisnis .container-14 {
+  margin-right: 50px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 31px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-bisnis {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  width: 1280px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,879 @@
+.toko .profil-toko {
+  margin: 0 47px 4px 47px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.toko .lihat-status-toko-dan-update-foto-profil-anda {
+  margin: 0 47px 25px 47px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .informasi-dasar {
+  margin: 0 47px 10px 47px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .line-30 {
+  background: #D9D9D9;
+  margin-bottom: 9px;
+  width: 1280px;
+  height: 1px;
+}
+.toko .vector-11 {
+  width: 13px;
+  height: 13px;
+}
+.toko .fluentdata-trending-32-regular {
+  margin: 0 3.5px 76.5px 3.5px;
+  display: flex;
+  width: 13px;
+  height: 13px;
+  box-sizing: border-box;
+}
+.toko .carbondevelopment {
+  margin: 0 2px 57px 2px;
+  width: 16px;
+  height: 16px;
+}
+.toko .vector-14 {
+  width: 18px;
+  height: 20px;
+}
+.toko .tdesignservice {
+  margin: 0 1px 43px 1px;
+  display: flex;
+  width: 18px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.toko .group-1 {
+  width: 20px;
+  height: 20px;
+}
+.toko .icon-park-outlineshop {
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.toko .container-10 {
+  margin: 0.5px 8px 126px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 20px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.toko .data {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .bisnis-saya {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .kesehatan-toko {
+  margin: 0 5.5px 25px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .perkembangan-penjualan {
+  margin: 0 0.3px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .program-star {
+  margin-bottom: 25px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .layanan-pembeli {
+  margin-bottom: 6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .asisten-chat {
+  margin-bottom: 27px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .toko-1 {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .penilaian-toko-1 {
+  margin: 0 14.4px 7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .profil-toko-1 {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 800;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .dekorasi-toko {
+  margin: 0 15.9px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .kategori-toko {
+  margin: 0 17.5px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .laporan-saya {
+  margin: 0 18.2px 0 1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .container-16 {
+  margin: 0 282.1px 17px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toko .vector {
+  margin-bottom: 9px;
+  width: 35px;
+  height: 35px;
+}
+.toko .ubah {
+  margin: 0 12.2px 0 10px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 5px;
+  color: #000000;
+}
+.toko .container-32 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.toko .line-34 {
+  background: #000000;
+  position: absolute;
+  right: 10px;
+  bottom: 7px;
+  width: 39px;
+  height: 1px;
+}
+.toko .container-18 {
+  border-radius: 29.5px;
+  background: #FFFFFF;
+  position: relative;
+  margin-right: 8px;
+  display: flex;
+  padding: 7px 12px 2px 12px;
+  box-sizing: border-box;
+}
+.toko .snack-medan-sirhan {
+  margin: 0 2.1px 3px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 15px;
+  color: #000000;
+}
+.toko .toko-makanan {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 11px;
+  color: #000000;
+}
+.toko .dan-13001800 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-15 {
+  margin: 7px 0 1px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toko .container-22 {
+  border-radius: 7px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 11px 0;
+  display: flex;
+  flex-direction: row;
+  padding: 49px 0 60px 28px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .vector-1 {
+  margin-right: 10px;
+  width: 24px;
+  height: 16px;
+}
+.toko .pc-shop {
+  margin: 2px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-17 {
+  margin-top: 0.7px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .lihat {
+  margin: 1.7px 5.8px 1.7px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 8px;
+  color: #000000;
+}
+.toko .vector-8 {
+  width: 7.8px;
+  height: 13.4px;
+}
+.toko .eparrow-up-bold {
+  transform: rotate(90.485deg);
+  display: flex;
+  width: 7.8px;
+  height: 13.4px;
+  box-sizing: border-box;
+}
+.toko .container-1 {
+  margin-bottom: 3.3px;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container-2 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8.3px 18.3px 8px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .vector-2 {
+  width: 20px;
+  height: 19px;
+}
+.toko .gridiconsproduct-downloadable {
+  margin-right: 12px;
+  display: flex;
+  width: 20px;
+  height: 19px;
+  box-sizing: border-box;
+}
+.toko .product {
+  margin: 3px 0 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-27 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container {
+  margin: 0.6px 5.1px 2.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 8px;
+  color: #000000;
+}
+.toko .vector-9 {
+  width: 7.8px;
+  height: 13.4px;
+}
+.toko .eparrow-up-bold-1 {
+  transform: rotate(90.485deg);
+  display: flex;
+  width: 7.8px;
+  height: 13.4px;
+  box-sizing: border-box;
+}
+.toko .container-4 {
+  margin: 2.4px 0 3.2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container-13 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 8px 18.2px 6px 17px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .basilchat-outline {
+  margin-right: 10px;
+  width: 24px;
+  height: 24px;
+}
+.toko .persentase-chat-dibalas {
+  margin: 2px 0 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-28 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container-1 {
+  margin: 4px 0 10px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 8px;
+  color: #000000;
+}
+.toko .container-7 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 29.7px 3px 15px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .vector-19 {
+  width: 20px;
+  height: 20px;
+}
+.toko .mingcutetime-line {
+  margin-right: 13px;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.toko .kecepatan-chat-dibalas {
+  margin: 3px 0 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-19 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .hitungan-jam {
+  margin: 5px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 8px;
+  color: #000000;
+}
+.toko .container-24 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 4px 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 7px 4.5px 6px 16px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .vector-5 {
+  margin-right: 14px;
+  width: 16px;
+  height: 12px;
+}
+.toko .penilaian-toko {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-31 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container-3 {
+  margin: 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 8px;
+  color: #000000;
+}
+.toko .container-26 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 11px 17.5px 10px 19px;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .container-6 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.toko .ubah-foto-utama {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.toko .container-29 {
+  border-radius: 0 0 7px 7px;
+  border: 1px solid #000000;
+  background: #EAEAEA;
+  position: absolute;
+  top: 148px;
+  right: 0px;
+  display: flex;
+  padding: 0 0.9px 3px 0;
+  width: 342px;
+  box-sizing: border-box;
+}
+.toko .container-21 {
+  position: relative;
+  margin: 8px 33px 4px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.toko .nama-toko {
+  margin-bottom: 8px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.toko .snack-medan-sirhan-1 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.toko .container {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 30px;
+  padding: 11px 7px 12px 7px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.toko .deskripsi-gambar {
+  margin-bottom: 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.toko .container-4 {
+  margin: 0 53px 14px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 36px;
+  color: #AFAFAF;
+}
+.toko .container-5 {
+  margin-top: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #AFAFAF;
+}
+.toko .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .tambah-foto-video {
+  position: absolute;
+  left: 50%;
+  bottom: 29px;
+  translate: -50% 0;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #AFAFAF;
+}
+.toko .container-30 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 26px;
+  display: flex;
+  padding: 29px 0 29px 81.7px;
+  width: 330px;
+  box-sizing: border-box;
+}
+.toko .deskripsi-toko {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.toko .masukkan-deskripsi-atau-informasi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #AFAFAF;
+}
+.toko .container-14 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  padding: 22px 8px 30px 8px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.toko .container-35 {
+  margin-top: 5px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toko .container-34 {
+  margin: 0 12px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.toko .vector-18 {
+  width: 20px;
+  height: 20px;
+}
+.toko .uiwsetting {
+  margin: 0 7px 40px 0;
+  display: flex;
+  width: 20px;
+  height: 20px;
+  box-sizing: border-box;
+}
+.toko .pengaturan {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .alamat-saya {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .pengturan-toko {
+  margin-left: 1px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .container-5 {
+  margin-top: 1px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toko .container-20 {
+  margin: 5px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .group {
+  margin-right: 14px;
+  width: 16px;
+  height: 20px;
+}
+.toko .tingkat-pesanan-tidak-terselesaikan {
+  margin: 4px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 10px;
+  color: #000000;
+}
+.toko .container-9 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container-2 {
+  margin: 0.6px 3.3px 2.8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 8px;
+  color: #000000;
+}
+.toko .vector-10 {
+  width: 7.8px;
+  height: 13.4px;
+}
+.toko .eparrow-up-bold-2 {
+  transform: rotate(90.485deg);
+  display: flex;
+  width: 7.8px;
+  height: 13.4px;
+  box-sizing: border-box;
+}
+.toko .container-11 {
+  margin: 5.4px 0 1.2px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.toko .container-12 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 33px 38px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 6px 18.2px 7px 19px;
+  width: 342px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.toko .simpan {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.toko .container-3 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 29px;
+  display: flex;
+  padding: 11px 0 12px 4.2px;
+  width: 123.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.toko .container-33 {
+  display: flex;
+  flex-direction: row;
+  width: 498.6px;
+  box-sizing: border-box;
+}
+.toko .container-25 {
+  margin: 0 14px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 904.7px;
+  box-sizing: border-box;
+}
+.toko .akun {
+  margin: 0 41px 8px 41px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .platform-patner {
+  margin: 0 41px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.toko .container-23 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.toko .line-31 {
+  background: #000000;
+  position: absolute;
+  left: 47px;
+  top: 121px;
+  width: 94px;
+  height: 4px;
+}
+.toko .rectangle-191 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  background: #D9D9D9;
+  position: absolute;
+  left: 316px;
+  bottom: 0px;
+  width: 55px;
+  height: 589px;
+}
+.toko {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 28px;
+  width: 1280px;
+  box-sizing: border-box;
+}

@@ -1,0 +1,209 @@
+.mac-book-air-11 .rectangle-136 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 50%;
+  top: -1px;
+  translate: -50% 0;
+  width: 446px;
+  height: 625px;
+}
+.mac-book-air-11 .bayar {
+  position: relative;
+  margin-bottom: 15px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .pilih-metode-pembayaran {
+  position: relative;
+  margin: 0 1px 7px 1px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.mac-book-air-11 .ewallet {
+  margin: 0 14px 11px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .shopee-pay {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-7 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 16px;
+  padding: 7px 11px 12px 11px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mac-book-air-11 .ovo {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-2 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 16px;
+  padding: 11px 11px 8px 11px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mac-book-air-11 .gopay {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-6 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 16px;
+  padding: 9px 13px 10px 13px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mac-book-air-11 .dana {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-9 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  padding: 9px 13px 10px 13px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.mac-book-air-11 .container-1 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 16px 1px;
+  display: flex;
+  flex-direction: column;
+  padding: 19px 11px 10px 13px;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.mac-book-air-11 .bank {
+  margin: 0 14px 13px 14px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .bca {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-3 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 16px 1px;
+  padding: 6px 10px 13px 10px;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.mac-book-air-11 .mandiri {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-5 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 1px 17px 0;
+  padding: 9px 13px 10px 13px;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.mac-book-air-11 .bri {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container-8 {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 17px 1px;
+  padding: 11px 14px 8px 14px;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.mac-book-air-11 .bni {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.mac-book-air-11 .container {
+  border: 1px solid #AFAFAF;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  padding: 7px 13px 12px 13px;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.mac-book-air-11 .container-4 {
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  flex-direction: column;
+  padding: 9px 10px 16px 13px;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.mac-book-air-11 {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 18px 20px 17px;
+  box-sizing: border-box;
+}

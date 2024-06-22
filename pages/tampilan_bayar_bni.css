@@ -1,0 +1,214 @@
+.tampilan-bayar-bni .total-tagihan-rp-5000000 {
+  margin: 0 20px 14px 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+}
+.tampilan-bayar-bni .line-13 {
+  background: #000000;
+  margin-bottom: 9px;
+  width: 446px;
+  height: 1px;
+}
+.tampilan-bayar-bni .transfer {
+  margin: 0 21px 14px 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 14px;
+  color: #000000;
+}
+.tampilan-bayar-bni .bank-tujuan {
+  margin: 0 21px 11px 21px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+  color: #8E8D8D;
+}
+.tampilan-bayar-bni .bri {
+  margin-right: 9.5px;
+  width: 263.8px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-bayar-bni .vector {
+  width: 12.5px;
+  height: 9.4px;
+}
+.tampilan-bayar-bni .bxsup-arrow {
+  transform: rotate(179.941deg);
+  margin: 5.1px 0 4.5px 0;
+  display: flex;
+  width: 12.5px;
+  height: 9.4px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .container-3 {
+  margin: 0 21px 0px 21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 285.8px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .line-14 {
+  background: #8E8D8D;
+  margin: 0 21px 11px 21px;
+  align-self: flex-start;
+  width: 287px;
+  height: 1px;
+}
+.tampilan-bayar-bni .informasi-rekening-pengirim {
+  margin: 0 20px 22px 20px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  color: #8E8D8D;
+}
+.tampilan-bayar-bni .nama-pemilik-rekening {
+  margin: 0 6.5px 1px 0;
+  display: inline-block;
+  width: 206.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  color: #8E8D8D;
+}
+.tampilan-bayar-bni .nomor-rekening {
+  margin-top: 1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  color: #8E8D8D;
+}
+.tampilan-bayar-bni .container {
+  margin: 0 20px 4px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 298.9px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .sirhan {
+  margin: 0 6.5px 2px 0;
+  display: inline-block;
+  width: 206.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.tampilan-bayar-bni .container {
+  margin-top: 2px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  color: #000000;
+}
+.tampilan-bayar-bni .container-6 {
+  margin: 0 20px 3px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 263.8px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .line-15 {
+  background: #8E8D8D;
+  width: 121px;
+  height: 1px;
+}
+.tampilan-bayar-bni .line-16 {
+  background: #8E8D8D;
+  width: 83px;
+  height: 1px;
+}
+.tampilan-bayar-bni .container-1 {
+  margin: 0 20px 29px 20px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 296px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .vector-1 {
+  width: 15.8px;
+  height: 14.3px;
+}
+.tampilan-bayar-bni .icbaseline-check-box {
+  margin: 0.4px 4.6px 0 0;
+  display: flex;
+  width: 15.8px;
+  height: 14.3px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .simpan-nomor-rekening {
+  margin-bottom: 1.6px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 11px;
+  color: #8E8D8D;
+}
+.tampilan-bayar-bni .container-4 {
+  margin: 2px 0 13.4px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .bayar-sekarang {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 14px;
+  color: #000000;
+}
+.tampilan-bayar-bni .container-5 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 8.8px 7px 14px;
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni .container-2 {
+  margin: 0 20px 0 23.6px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: calc(100% - 43.6px);
+  box-sizing: border-box;
+}
+.tampilan-bayar-bni {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 0;
+  box-sizing: border-box;
+}

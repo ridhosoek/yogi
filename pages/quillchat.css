@@ -1,0 +1,8 @@
+.quillchat .group {
+  width: 26px;
+  height: 22px;
+}
+.quillchat {
+  display: flex;
+  box-sizing: border-box;
+}

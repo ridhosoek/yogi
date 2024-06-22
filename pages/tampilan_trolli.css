@@ -1,0 +1,71 @@
+.tampilan-trolli .vector-1 {
+  width: 28.5px;
+  height: 20.6px;
+}
+.tampilan-trolli .fa-6-solidarrow-up {
+  transform: rotate(-90.188deg);
+  margin: 1px 12.4px 2.4px 0;
+  display: flex;
+  width: 28.5px;
+  height: 20.6px;
+  box-sizing: border-box;
+}
+.tampilan-trolli .troli-saya {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.tampilan-trolli .container {
+  margin-bottom: 226px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.tampilan-trolli .vector {
+  width: 99px;
+  height: 66px;
+}
+.tampilan-trolli .fontistoshopping-basket-remove {
+  margin: 0 8.7px 26px 0;
+  display: flex;
+  width: 99px;
+  height: 66px;
+  box-sizing: border-box;
+}
+.tampilan-trolli .tidak-ada-barang-dalam-troli-ini {
+  margin: 0 0 14px 14.5px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #8E8D8D;
+}
+.tampilan-trolli .tambahkan-belanja {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-trolli .container-1 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 8px;
+  display: flex;
+  padding: 10px 12.3px 11px 19px;
+  box-sizing: border-box;
+}
+.tampilan-trolli {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 13px 12px 282px 12px;
+  box-sizing: border-box;
+}

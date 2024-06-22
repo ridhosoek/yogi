@@ -1,0 +1,290 @@
+.chekout .detail-produk {
+  margin-bottom: 7px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.chekout .vector {
+  width: 20px;
+  height: 16px;
+}
+.chekout .material-symbolsmoney {
+  margin: 2px 0 1px 0;
+  display: flex;
+  width: 20px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.chekout .gunakan-kode-promo-atau-kupon {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.chekout .container-6 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 17px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 12px 0 13px 20px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.chekout .alamat-pengiriman {
+  margin: 0 18px 10px 18px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 14px;
+  color: #000000;
+}
+.chekout .line-11 {
+  background: #AFAFAF;
+  margin-bottom: 6px;
+  width: 405px;
+  height: 1px;
+}
+.chekout .provinsi-yogyakarta {
+  margin: 0 13px 13px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .nama-jalan-thamrin {
+  margin: 0 13px 13px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .no-rumah-125 {
+  margin: 0 13px 12px 13px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .kode-post-30014 {
+  margin: 0 12px 13px 12px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .detail-alamat-rumah-warna-pink {
+  margin: 0 13px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .container-9 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 7px 0 23px 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+.penjual-sirhan-afkar-prayogi-sub74 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.333;
+  color: #8E8D8D;
+}
+.penjual-sirhan-afkar-prayogi {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 9px;
+  line-height: 1.333;
+}
+.chekout .penjual-sirhan-afkar-prayogi {
+  margin-bottom: 8px;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 9px;
+  color: #000000;
+}
+.chekout .rectangle-142 {
+  border-radius: 10px;
+  background: url('../assets/images/rectangle_142.png') 50% / cover no-repeat;
+  margin: 0 13px 4px 0;
+  width: 66px;
+  height: 82px;
+}
+.chekout .kripik-singkong {
+  margin: 0 12.2px 1px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .barang {
+  margin-bottom: 37px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 10px;
+  color: #000000;
+}
+.chekout .rp-1700000 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.chekout .container-1 {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chekout .container-5 {
+  margin-bottom: 33px;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.chekout .kurir-pengirim {
+  margin: 6px 7.5px 10px 0;
+  display: inline-block;
+  width: 246.5px;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .pilih-kurir {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.chekout .container-2 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  padding: 6px 0.5px 6px 0;
+  width: 124px;
+  box-sizing: border-box;
+}
+.chekout .container-3 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.chekout .container-8 {
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-bottom: 44px;
+  display: flex;
+  flex-direction: column;
+  padding: 6px 9px 15px 18px;
+  width: 100%;
+  box-sizing: border-box;
+}
+.chekout .total-harga {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 12px;
+  color: #000000;
+}
+.chekout .rp-2000000 {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 16px;
+  color: #000000;
+}
+.chekout .container {
+  margin-bottom: 2px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.chekout .bayar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  color: #000000;
+}
+.chekout .container-7 {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-top: 8px;
+  display: flex;
+  padding: 6px 0 8px 0.9px;
+  width: 167px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.chekout .container-4 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  box-sizing: border-box;
+}
+.chekout {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 12px 21px 30px 20px;
+  box-sizing: border-box;
+}

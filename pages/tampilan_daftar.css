@@ -1,0 +1,137 @@
+.tampilan-daftar .rectangle-80 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.tampilan-daftar .daftar-1 {
+  position: relative;
+  margin: 0 4px 31px 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 32px;
+  color: #000000;
+}
+.tampilan-daftar .no-handphone-atau-email {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-daftar .container {
+  border-radius: 40px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 13px 4px;
+  padding: 15px 26px 11px 26px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.tampilan-daftar .nama-lengkap {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-daftar .container-2 {
+  border-radius: 40px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 0 14px 4px;
+  padding: 13px 25px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.tampilan-daftar .kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-daftar .container-3 {
+  border-radius: 40px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 4px 13px 0;
+  padding: 13px 30px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.tampilan-daftar .konfirmasi-kata-sandi {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-daftar .container-1 {
+  border-radius: 40px;
+  border: 1px solid #D9D9D9;
+  background: #FFFFFF;
+  position: relative;
+  margin: 0 4px 29px 0;
+  padding: 13px 30px;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.tampilan-daftar .daftar {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 700;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.tampilan-daftar .group-90 {
+  border-radius: 40px;
+  border: 1px solid #000000;
+  background: #000000;
+  position: relative;
+  margin: 0 0 24px 4px;
+  display: flex;
+  padding: 11px 8.6px 10px 0;
+  width: calc(100% - 4px);
+  box-sizing: border-box;
+}
+.punya-akun-masuk-sub5 {
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #000000;
+}
+.punya-akun-masuk {
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 1.333;
+  color: #000000;
+}
+.tampilan-daftar .punya-akun-masuk {
+  position: relative;
+  margin-right: 43px;
+  align-self: center;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 400;
+  font-size: 16px;
+  color: #000000;
+}
+.tampilan-daftar {
+  background: #AFAFAF;
+  display: flex;
+  flex-direction: column;
+  padding: 19px 30px 32px 26px;
+  box-sizing: border-box;
+}

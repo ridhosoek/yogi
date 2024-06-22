@@ -1,0 +1,62 @@
+.tampilan-kode-promo .rectangle-174 {
+  background: #FFFFFF;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.tampilan-kode-promo .kode-promo {
+  position: relative;
+  margin: 0 2px 18px 2px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 14px;
+  color: #000000;
+}
+.tampilan-kode-promo .container {
+  position: relative;
+  margin-bottom: 3px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.tampilan-kode-promo .line-12 {
+  background: #D9D9D9;
+  position: relative;
+  margin: 0 0 48.2px 2px;
+  width: 378px;
+  height: 1.8px;
+}
+.tampilan-kode-promo .gunakan-kode {
+  overflow-wrap: break-word;
+  font-family: 'Inter';
+  font-weight: 600;
+  font-size: 20px;
+  color: #000000;
+}
+.tampilan-kode-promo .container {
+  border: 1px solid #000000;
+  background: #FFFFFF;
+  position: relative;
+  margin-left: 1px;
+  display: flex;
+  padding: 7px 0.7px 6px 0;
+  width: calc(100% - 1px);
+  box-sizing: border-box;
+}
+.tampilan-kode-promo {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  padding: 22px 36px 24px 30px;
+  box-sizing: border-box;
+}
